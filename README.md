@@ -66,4 +66,4 @@ from tensorflow.keras.utils import to_categorical  # Correct import path
 import Augmentor
 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+<!-- As the libraries versions keep on changing, it is recommended to use these versions of these libraries for this project -->
