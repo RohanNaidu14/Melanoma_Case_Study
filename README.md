@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f0e81f2c-f04d-461e-9336-bd6ac7d371eb)
+![image](https://github.com/user-attachments/assets/00c88be4-b67e-49eb-a3e6-4c25079f2956)
+
 
 
 # Melanoma Case Study
