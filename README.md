@@ -64,6 +64,6 @@ from tensorflow.keras.optimizers import Adam
 from keras.callbacks import ReduceLROnPlateau
 from tensorflow.keras.utils import to_categorical  # Correct import path
 import Augmentor
+```
 
-
-<!-- As the libraries versions keep on changing, it is recommended to use these versions of these libraries for this project -->
+## As the libraries versions keep on changing, it is recommended to use these versions of these libraries for this project
