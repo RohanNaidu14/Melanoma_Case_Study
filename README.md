@@ -43,8 +43,8 @@ Choose an appropriate data augmentation strategy to resolve underfitting/overfit
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
+```python
 import pathlib
 import tensorflow as tf
 import matplotlib.pyplot as plt
